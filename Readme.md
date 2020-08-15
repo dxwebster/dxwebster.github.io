@@ -10,15 +10,14 @@ Layout do Twitter feito utilizando Flexbox e Sass.
 ## 📥 Executar esse projeto no seu computador
 
 - Clonar Repositório: `git clone https://github.com/dxwebster/Primeiro-Projeto-com-ReactJS`
-- Entrar na pasta? `cd Twitter-Flexbox`
+- Entrar na pasta: `cd Twitter-Flexbox`
 - Instalar dependências: `yarn install`
 
 ## 🚀 Tecnologias utilizadas
 
-- HTML
-- CSS
-  - Flexbox
-  - Sass
+- HTML3
+- CSS5 (Flexbox)
+- Sass
 - NodeJS
 - Live Server
 
@@ -29,14 +28,19 @@ Mais informações do Plugin: https://github.com/ritwickdey/live-server-web-exte
 
 # Sass
 
-Vamos rodar o sass para compilar nossos arquivos pelo Node. Nosso arquivo 'package.json' contem um script que vai fazer o sass observar as alterações dos arquivos e compilar automaticammente nosso .scss em .css.
+Vamos rodar o sass para compilar nossos arquivos pelo Node. Nosso arquivo 'package.json' contém um script que vai fazer o sass observar as alterações dos arquivos e compilar automaticammente nosso .scss em .css. Para rodar o sass, basta executar `yarn start`
 
-<p align="center">
-  <img src="./readme/package.png"/>
-  <br><br>
-</p>
-
-Para rodar o sass, basta executar `yarn start`
+```json
+// package.json
+{
+  "devDependencies": {
+    "sass": "^1.26.10"
+  },
+  "scripts": {
+    "start": "yarn sass --watch scss/style.scss css/style.css"
+  }
+}
+```
 
 ## 📕 Licença
 
