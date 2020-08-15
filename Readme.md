@@ -3,9 +3,10 @@
   <br><br>
 </p>
 
-## 💡 Sobre o Projeto
-
-Layout do Twitter feito utilizando Flexbox e Sass.
+<h1 align="center">Layout do Twitter feito utilizando Flexbox e Sass</h1> 
+<div align="center">
+💻 **[Preview](https://dxwebster.github.io/Twitter-Flexbox/)** | 
+</div>
 
 ## 📥 Executar esse projeto no seu computador
 
