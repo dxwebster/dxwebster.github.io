@@ -1,13 +1,12 @@
+# Layout do Twitter feito utilizando Flexbox e Sass
+💻 **Acesse o Preview [aqui](https://dxwebster.github.io/Twitter-Flexbox)**
+
 <p align="center">
   <img src="./readme/Twitter.png"  width="550"/>
   <br><br>
 </p>
 
-<h1 align="center">Layout do Twitter feito utilizando Flexbox e Sass</h1> 
-<div align="center">  
-  
-  💻 **Acesse o Preview [aqui](https://dxwebster.github.io/Twitter-Flexbox)**
-</div>
+
 
 ## 📥 Executar esse projeto no seu computador
 
