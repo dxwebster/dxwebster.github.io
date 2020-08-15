@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./readme/Twitter.png"  width="500"/>
+  <img src="./readme/Twitter.png"  width="550"/>
   <br><br>
 </p>
 
