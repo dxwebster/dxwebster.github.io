@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "sass": "^1.26.10"
+  },
+  "scripts": {
+    "start": "yarn sass --watch scss/style.scss css/style.css"
+  }
+}
