@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" width="500">
   <img src="./readme/Twitter.png"/>
   <br><br>
 </p>
