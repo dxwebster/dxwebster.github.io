@@ -5,7 +5,11 @@
 
 <h1 align="center">Layout do Twitter feito utilizando Flexbox e Sass</h1> 
 <div align="center">  
- 💻 **[Preview](https://dxwebster.github.io/Twitter-Flexbox)**
+ 💻
+ [Preview](https://dxwebster.github.io/Twitter-Flexbox)
+  
+  💻 Acesse o Front-end [aqui](https://github.com/dxwebster/NLW2-Proffy/tree/master/web)
+
 </div>
 
 ## 📥 Executar esse projeto no seu computador
