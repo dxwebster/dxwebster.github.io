@@ -9,7 +9,7 @@ Layout do Twitter feito utilizando Flexbox e Sass.
 
 ## 📥 Executar esse projeto no seu computador
 
-- Clonar Repositório: `git clone https://github.com/dxwebster/Primeiro-Projeto-com-ReactJS`
+- Clonar Repositório: `git clone https://github.com/dxwebster/Twitter-Flexbox`
 - Entrar na pasta: `cd Twitter-Flexbox`
 - Instalar dependências: `yarn install`
 
